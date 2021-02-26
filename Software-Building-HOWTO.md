@@ -1,5 +1,4 @@
 # Software-Building-HOWTO
-All credits to tldp.org
 ## 1. Introduction
 Many software packages for the various flavors of UNIX and Linux come as compressed archives of source files. The same package may be "built" to run on different target machines, and this saves the author of the software from having to produce multiple versions. A single distribution of a software package may thus end up running, in various incarnations, on an intel box, a DEC Alpha, a RISC workstation, or even a mainframe. Unfortunately, this puts the responsibility of actually "building" and installing the software on the end user, the de facto "system administator", the fellow sitting at the keyboard -- you. Take heart, though, the process is not nearly as terrifying or mysterious as it seems, as this guide will demonstrate.
 
