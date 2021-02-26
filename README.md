@@ -1,5 +1,4 @@
 # Linux From Scratch 
-### all credit goes to Gerard Beekmans and the people that contributed to linux from scratch
 
 ## Preface 
 ### Foreword
